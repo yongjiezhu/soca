@@ -1,2 +1,3 @@
 # soca
-Second-order instantaneous causal analysis 
+Second-Order instantaneous Causal Analysis:
+Coming soon for the MEG analysis after tidying up...

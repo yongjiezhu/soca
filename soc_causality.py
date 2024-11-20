@@ -1,5 +1,5 @@
 """
-Second-order instantaneous causal analysis
+Second-Order instantaneous Causal Analysis
 
 """
 import numpy as np

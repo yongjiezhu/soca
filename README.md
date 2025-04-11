@@ -1,4 +1,4 @@
-# soca (Work Under Review)
+# soca
 Second-Order instantaneous Causal Analysis with Simulation:
 
 Real data analysis coming soon..
